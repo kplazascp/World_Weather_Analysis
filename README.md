@@ -10,5 +10,5 @@ To be able to do this, we colcected an analyzed weather data across cities world
 Then, we visualized the travel data by creating heatmaps with pop-up markers that can display information on specific cities based on a customer's travel preferences.
 
 ## Challenges and difficulties
-The Google map API did work, but it didn't show the figure, only the message: Figure(layout=FigureLayout(height='420px'))
+The Google map API did work, but it didn't show the figure, only the message: Figure(layout=FigureLayout(height='420px')).
 For that reason, the data can be seen in the tables, but not an image of the map.
